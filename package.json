@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/An-FE/node_spider/issues"
   },
-  "homepage": "https://github.com/An-FE/node_spider#readme"
+  "homepage": "https://github.com/An-FE/node_spider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
 }
